@@ -1,5 +1,5 @@
 # secure-password-generator
-Secure Password Generator 
+Secure Password Generator by
 Prabhjott Singh Kusrath
 
 This program is made using Python, utilizing the random library. Using uppercase, lowercase, and special characters the user is able to define and customize their password. Utilizing all character types creates more possible combinations and strengthen the password.
